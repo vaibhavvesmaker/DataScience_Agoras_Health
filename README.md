@@ -1,4 +1,4 @@
-# Data Science Projects for agoras Health Internship
+# Data Science Projects for Agoras Health Internship
 
 Welcome to the repository for the Data Science Associate Internship at agoras Health. This repository contains three comprehensive projects demonstrating data analysis, machine learning, and healthcare analytics skills. Each project includes code, datasets, and detailed technical reports.
 
