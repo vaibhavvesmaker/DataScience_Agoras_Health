@@ -4,7 +4,7 @@ Welcome to the repository for the Data Science Associate Internship at agoras He
 
 ## Projects Overview
 
-### Project 1: Predicting Job Satisfaction of Healthcare Professionals
+### Project 1: Predicting Job Satisfaction of Healthcare Professionals 
 
 #### Objective
 To predict job satisfaction among healthcare professionals using machine learning techniques.
